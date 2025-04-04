@@ -1,3 +1,3 @@
 # syntax = docker/dockerfile:1.2
-FROM amazoncorretto:17.0.14-al2023@sha256:3eaad6113d6ce59149f4a19ad80c62781e9acb9677ac4322054d1d666eb27fee
+FROM amazoncorretto:21.0.6@sha256:cfde421b70787b286ea1927738b29ae200dad96978bdd8ad5f5d9cad70697369
 WORKDIR /workspace/app
